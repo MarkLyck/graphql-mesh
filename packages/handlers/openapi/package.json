@@ -25,7 +25,7 @@
     "directory": "packages/handlers/openapi"
   },
   "devDependencies": {
-    "@types/deep-equal": "1.0.1",
+    "@types/deep-equal": "1.0.4",
     "@types/form-urlencoded": "2.0.1",
     "@types/json-pointer": "1.0.31"
   },
